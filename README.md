@@ -1,6 +1,6 @@
 # Aceleração Global Dev #15 GFT
 
-Programa De Aceleração DIO-GFT
+Programa De Aceleração DIO - GFT
 
 - Workshop: Aplicando os conceitos da **certificação** CTFL na prática
 - Workshop: **Soft-Skills** em Qualidade - A Excelência Começa dentro de Você
