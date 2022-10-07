@@ -22,7 +22,8 @@
 # Enable syntax highlighting for files with `.gitattributes` extensions.
 #
 #*.gitattributes linguist-language=gitattributes
-#* linguist-vendored
+* linguist-vendored
+*.html linguist-vendored=false
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
